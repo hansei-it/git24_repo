@@ -1,3 +1,6 @@
 void function_a()
 {
 }
+void function_a2()
+{
+}
